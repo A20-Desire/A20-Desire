@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @A20-Desire
-- 👀 I’m interested in ...coding
+- 👀 I’m a software developer!
 - 🌱 I’m currently learning ...software engineering
 - 💞️ I’m looking to collaborate on ...software designs,building native apps
 - 📫 How to reach me ... 09018008698
