@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @A20-Desire
 - 👀 I’m a software developer!
-- 🌱 I’m currently learning ...software engineering
+- 🌱 I’m a software engineering || Solution Architect
 - 💞️ I’m looking to collaborate on ...software designs,building native apps
 - 📫 How to reach me ... 09018008698
 - 😄 Pronouns: ...HE
