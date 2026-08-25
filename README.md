@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...software designs,building native apps
 - 📫 How to reach me ... 09018008698
 - 😄 Pronouns: ...HE
-- ⚡ Fun fact: ...I love to code
+- ⚡ Fun fact: ...I love to build high scalable systems
 
 <!---
 A20-Desire/A20-Desire is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
